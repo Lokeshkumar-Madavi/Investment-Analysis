@@ -3,7 +3,7 @@
 
 ## Overview
 
-This repository contains step-by-step tasks for analyzing an investment dataset. The goal is to apply fundamental to advanced data analysis skills, including data loading, descriptive statistics, visualizations, frequency analysis, and correlation exploration.
+This repository contains step-by-step tasks for analysing an investment dataset. The goal is to apply fundamental to advanced data analysis skills, including data loading, descriptive statistics, visualizations, frequency analysis, and correlation exploration.
 
 ---
 ## Tools Used
@@ -11,9 +11,9 @@ Excel – Initial data inspection
 
 Jupyter Notebook – Python-based data exploration
 pandas, numpy – Data handling
-matplotlib, seaborn – Data visualization
+matplotlib, seaborn – Data visualisation
 
-Powerpoint - for Presentation
+PowerPoint - for Presentation
 
 ---
 
@@ -26,13 +26,13 @@ This investment analysis shows:
 
   People choose:
 
-Equity for capital growth,
+  * Equity for capital growth,
 
-Mutual funds for better returns and diversification,
+  * Mutual funds for better returns and diversification,
 
-Bonds for assured and safe returns,
+  * Bonds for assured and safe returns,
 
-Fixed deposits for risk-free and fixed returns.
+  * Fixed deposits for risk-free and fixed returns.
 
 3. Most participants invest to secure a financially independent life after retirement.
 
