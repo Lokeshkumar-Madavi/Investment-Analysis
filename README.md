@@ -3,7 +3,7 @@
 
 ## Overview
 
-This repository contains step-by-step tasks for analysing an investment dataset. The goal is to apply fundamental to advanced data analysis skills, including data loading, descriptive statistics, visualizations, frequency analysis, and correlation exploration.
+This repository contains step-by-step tasks for analysing an investment dataset. The goal is to apply fundamental to advanced data analysis skills, including data loading, descriptive statistics, visualisations, frequency analysis, and correlation exploration.
 
 ---
 ## Tools Used
@@ -24,7 +24,7 @@ This investment analysis shows:
 
 2. Gold is the most preferred investment avenue.
 
-  People choose:
+3. People choose:
 
   * Equity for capital growth,
 
@@ -34,12 +34,12 @@ This investment analysis shows:
 
   * Fixed deposits for risk-free and fixed returns.
 
-3. Most participants invest to secure a financially independent life after retirement.
+4. Most participants invest to secure a financially independent life after retirement.
 
-4. The main sources of investment information are financial consultants and newspapers/magazines.
+5. The main sources of investment information are financial consultants and newspapers/magazines.
 
-5. The average investment duration is about 3 years.
+6. The average investment duration is about 3 years.
 
-6. Most participants expect returns between 20% and 30%.
+7. Most participants expect returns between 20% and 30%.
 
-7. Age has little impact on how long people invest or what returns they expect. There is only a slight positive link between how long they invest and the returns they expect. Overall, these factors are mostly independent in this dataset.
+8. Age has little impact on how long people invest or what returns they expect. There is only a slight positive link between how long they invest and the returns they expect. Overall, these factors are mostly independent in this dataset.
