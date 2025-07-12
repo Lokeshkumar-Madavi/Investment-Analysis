@@ -45,6 +45,22 @@ This investment analysis shows:
 8. Age has little impact on how long people invest or what returns they expect. There is only a slight positive link between how long they invest and the returns they expect. Overall, these factors are mostly independent in this dataset.
 
 ---
+![Slide1](https://github.com/user-attachments/assets/429c08b7-3a00-4630-9deb-38682fe12af9)
+![Slide2](https://github.com/user-attachments/assets/ec86d577-629d-4a2f-8d60-955f874540c6)
+![Slide3](https://github.com/user-attachments/assets/b64f947a-3ff9-4f82-a4a9-f9a1a2d28786)
+![Slide4](https://github.com/user-attachments/assets/d48c1170-2a51-4c6b-a0e2-cba65b88fee9)
+![Slide5](https://github.com/user-attachments/assets/a87aced3-49d8-4fab-b14a-2201a957842b)
+![Slide6](https://github.com/user-attachments/assets/81381032-d515-4666-9233-e74680674f7f)
+![Slide7](https://github.com/user-attachments/assets/27b3db50-a36a-4b97-81aa-799b0e8d19a2)
+![Slide8](https://github.com/user-attachments/assets/2bd60b79-7fb6-4a84-a23d-ba5840bfed01)
+![Slide9](https://github.com/user-attachments/assets/8394b8ca-3545-4b41-9b73-1565ce67a0ac)
+![Slide10](https://github.com/user-attachments/assets/01bbc332-1124-4647-bd24-83f9a6125ac4)
+![Slide11](https://github.com/user-attachments/assets/4490017a-a88a-4ed6-af2d-fc5994ebe5df)
+![Slide12](https://github.com/user-attachments/assets/47c993bf-c4e6-4112-b084-3c666c739585)
+![Slide13](https://github.com/user-attachments/assets/17f9fa7d-71b8-4038-9ff8-631831c6fd35)
+![Slide14](https://github.com/user-attachments/assets/428df79e-1c0b-4085-8414-cad60adf01bd)
+![Slide15](https://github.com/user-attachments/assets/24d4b74c-c914-4229-931b-a55a0eebd205)
+![Slide16](https://github.com/user-attachments/assets/b83acf1f-8219-45b2-b62c-3e0658b60e2d)
+![Slide17](https://github.com/user-attachments/assets/258f5d38-beb0-44ea-85fc-dc1d1d55e9c9)
 
-![Slide3](https://github.com/user-attachments/assets/cf008b8c-ea8d-4212-8ca7-7d54ddf1e8d6)
 
